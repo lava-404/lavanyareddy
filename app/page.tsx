@@ -123,7 +123,7 @@ export default function Home() {
 
       <div className="space-y-4 text-sm">
         <a
-          href="mailto:your@email.com"
+          href="mailto:lavanyaropt@gmail.com"
           className="group flex items-center justify-between gap-12 text-zinc-300 transition hover:text-white"
         >
           <span>email</span>
@@ -131,7 +131,7 @@ export default function Home() {
         </a>
 
         <a
-          href="https://github.com/yourusername"
+          href="https://github.com/lava-404"
           target="_blank"
           rel="noopener noreferrer"
           className="group flex items-center justify-between gap-12 text-zinc-300 transition hover:text-white"
@@ -141,7 +141,7 @@ export default function Home() {
         </a>
 
         <a
-          href="https://x.com/yourusername"
+          href="https://x.com/lava_404"
           target="_blank"
           rel="noopener noreferrer"
           className="group flex items-center justify-between gap-12 text-zinc-300 transition hover:text-white"
