@@ -37,7 +37,7 @@ export default function Projects() {
 
   return (
     <section className="mx-auto max-w-6xl overflow-hidden px-6 py-24" id="projects">
-      <h2 className="mb-12 text-4xl font-black md:text-5xl">
+      <h2 className="mb-22 text-4xl font-black md:text-5xl">
         selected projects
       </h2>
 
