@@ -101,7 +101,7 @@ export default function Home() {
       </section>
 
       {/* FOOTER */}
-      <footer className="mt-24 border-t border-zinc-900 py-24" id="contact">
+      <footer className="mt-20 border-t border-zinc-900 py-16" id="contact">
   <div className="mx-auto grid max-w-6xl gap-16 px-6 md:grid-cols-2">
 
     {/* Left */}
